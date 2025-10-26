@@ -9,7 +9,7 @@ My Name is Andy and I am a junior full stack developer at the start of my journe
   - Or even the things I like to do (Cycling reading) or what games/TV/Movies/Books im enjoying at the moment.
 - 📫 Just drop me a message on:
   - 📧[andrewbullimore@gmail.com](mailto:andrewbullimore@gmail.com)
-  - <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/e9e7bd66-90bf-437e-8e96-8d57f8d83e49" /> [My Instagram]https://www.instagram.com/trillspectre/
+  - <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/e9e7bd66-90bf-437e-8e96-8d57f8d83e49" /> [My Instagram]https://www.instagram.com/trillspectre/
 
 - 😄 Pronouns: ...
 <!--
