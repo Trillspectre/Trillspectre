@@ -62,9 +62,9 @@ My Mind is a project on a subject I care about a lot, mental health. It is a str
 | Links | [README](https://github.com/Trillspectre/Mental-health-one-page-project/blob/main/README.md) | [Deployed site](https://trillspectre.github.io/Mental-health-one-page-project/) |
 | :---- | :-----: | :------------: |
 
-<img width="992" height="894" alt="image" src="https://github.com/user-attachments/assets/f19ef415-6b56-4a64-bf23-2eca3f092168" />
+<img width="992" height="894" alt="image" src="https://github.com/user-attachments/assets/f19ef415-6b56-4a64-bf23-2eca3f092168"/>
 
-<img src="https://raw.githubusercontent.com/Trillspectre/Trillspectre/output/snake.svg" alt="Snake animation" />
+
 
 <!--
 **Trillspectre/Trillspectre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
