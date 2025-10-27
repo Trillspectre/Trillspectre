@@ -1,6 +1,6 @@
 ## Hi there 👋
 My Name is Andy and I am a junior full stack developer at the start of my journey! So far, I have made projects with HTML, CSS, JavaScript, Django, SQL and Python!
-- 🔭 I’m currently working on a group project to make a site for developer profiles, where you can upload your ressumes and project READMES and cuistomise the layout.   
+- 🔭 I’m currently working on a group project to make a site for developer profiles, where you can upload your ressumes and project READMES and customise the layout.  
 
 - 🌱 My learning journey: I have just finished a 16 week Fullstack bootcamp with [<img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/97217ae9-4d20-4140-bd45-dbeb06a9e1e6" />
 Code institute](https://codeinstitute.net/). I have continued my journey with a number of my alumni to  work on projects focusing on tackling commonly used frontend/backend frameworks (React, Vue.js Django) and keep engaged and progress the skills I have already covered in the bootcamp.
