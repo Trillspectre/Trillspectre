@@ -48,7 +48,6 @@ The questions are generated with the [Open Trivia Database API](https://opentdb.
 | :---- | :-----: | :------------: |
 
 <img width="953" height="473" alt="image" src="https://github.com/user-attachments/assets/2a674caa-7682-4f63-8bd4-12a519e2d813" />
-https://trillspectre.github.io/Mental-health-one-page-project/
 
 ### My Mind
 <img width="51" height="44" alt="image" src="https://github.com/user-attachments/assets/c2e5e22e-c005-469a-b4d7-f3718a210735" />
