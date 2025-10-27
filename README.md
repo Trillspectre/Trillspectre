@@ -102,9 +102,7 @@ My Mind is a project on a subject I care about a lot, mental health. It is a str
 </div>
 
 ###
-![snake gif](https://github.com/Trillspectre/Trillspectre/blob/output/github-contribution-grid-snake-dark.svg)
-
-<img src="https://raw.githubusercontent.com/Trillspectre/Trillspectre/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Trillspectre/Trillspectre/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
