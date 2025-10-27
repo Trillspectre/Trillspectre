@@ -67,19 +67,6 @@ My Mind is a project on a subject I care about a lot, mental health. It is a str
 <img width="992" height="894" alt="image" src="https://github.com/user-attachments/assets/f19ef415-6b56-4a64-bf23-2eca3f092168"/>
 
 
-
-.github/workflows
-
-
-snake.yml
-
-
-README.md
-
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight" width="992"  />
 </div>
@@ -115,6 +102,7 @@ Fork on Github
 </div>
 
 ###
+![snake gif](https://github.com/Trillspectre/Trillspectre/blob/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://raw.githubusercontent.com/Trillspectre/Trillspectre/output/snake.svg" alt="Snake animation" />
 
